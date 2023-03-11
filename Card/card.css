@@ -1,0 +1,30 @@
+.userprofile {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(95, 17, 95);
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px 1px purple;
+    justify-content: center;
+    margin-left: 380px;
+    margin-top: 80px;
+
+}
+
+.image {
+    background: white;
+    width: 110px;
+    height: 110px;
+    border-radius: 5px;
+    transform: translate(85px, 45px);
+}
+
+img {
+    border: 2px solid rgb(53, 5, 53);
+}
+
+.info {
+    margin-top: 60px;
+    height: 100px;
+    text-align: center;
+    font-family: titillium web, sans-serif
+}
