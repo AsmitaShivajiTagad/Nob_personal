@@ -1,0 +1,32 @@
+
+.container{
+    margin-top: 123px;
+    margin-left: 30%;
+    padding: 60px;
+    width: 234px;
+    height: 126px;
+    background-color: rgb(183, 170, 197);
+    border-radius: 8px;
+    
+}
+.display{
+  justify-content: center;
+  margin-left: 110px;
+  margin-top: -7px;
+}
+
+.btn1{
+   
+    margin: 13px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn2{
+    
+    margin: 13px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
