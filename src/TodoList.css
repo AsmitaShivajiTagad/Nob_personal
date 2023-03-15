@@ -1,0 +1,27 @@
+
+.Container{
+ width:563px;
+ flex: content;
+ margin-left:25%;
+ padding: 12px;  
+ border-radius: 10px solid black;
+ background-color:rgb(226, 176, 13);
+ height:653px;
+}
+.InnerContainer{
+    flex: content;
+    width: 425px;
+    height: 342px;
+    background-color: rgb(73, 67, 67);
+    margin: 22px 52px;
+    margin-top: 98px;
+    justify-content: center;
+    border: 2px solid rgb(79, 79, 92);
+    box-shadow: 3px 2px 3px 2px rgb(129, 99, 160);
+}
+
+.head,.list,.input{
+
+    justify-content: center;
+    margin-left: 123px;
+}
